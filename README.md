@@ -19,5 +19,4 @@
 ### for users without nvidia gpu: 'go-realtime-gui-dml'
 
 
-# PS. If you have "tkinter" error when running the voice changer, check out this picture:
-https://github.com/codename0og/rvc-realtime-voice-changer/blob/3714ecb0ebe95eb65284fb6d5b8a6f703b978f93/tools/tkinter_issue_fix.png
+# PS. If you have "tkinter" error when running the voice changer, check out this picture: https://github.com/codename0og/rvc-realtime-voice-changer/blob/3714ecb0ebe95eb65284fb6d5b8a6f703b978f93/tools/tkinter_issue_fix.png
