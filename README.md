@@ -1,4 +1,4 @@
-### The voice changer Isolated by codename;0
+### The RVC's real-time voice changer ( standalone ) separated by codename;0
 
 # 1. Get the requirements needed for the voice changer to work.
 ## 1.1. Open up cmd in a folder where you unpacked the voice changer.
