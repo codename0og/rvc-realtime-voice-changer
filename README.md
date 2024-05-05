@@ -8,7 +8,7 @@
 ### for nvidia gpu users ( for RTX30XX series ):
 > 'install requirements for realtime voice-changer ( NVIDIA-RTX30XX ).bat'
 ### or if the above causes your gpu to be undetected:
-> 'install requirements for realtime voice-changer ( NVIDIA-RTX30XX ) - CUDA_118'  
+> 'install requirements for realtime voice-changer ( NVIDIA-RTX30XX ) - CUDA_118.bat'  
 ### for AMD / CPU / DirectML users:
 > 'install requirements for realtime voice-changer ( DML ).bat'
 
