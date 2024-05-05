@@ -2,7 +2,7 @@
 > separated from rvc by codename;0
 
 # 1. Get the requirements needed for the voice changer to work.
-## 1.1. Go to the 'requirements' folder and run ( double click ) an appropriate '.bat' file for your case:
+## 1.1. Go to the 'requirements' folder then 'realtime-voice-changer' and run ( double click ) an appropriate '.bat' file for your case:
 ### for nvidia gpu users ( all nvidia except for RTX30XX series ):
 > 'install requirements for realtime voice-changer ( NVIDIA-STANDARD ).bat'
 ### for nvidia gpu users ( for RTX30XX series ):
