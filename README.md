@@ -1,14 +1,18 @@
-### Standalone & lightweight RVC's own real-time voice changer~
+### Standalone, lightweight and simplified in setup RVC's own real-time voice changer~
 > separated from rvc by codename;0
 
 # 1. Get the requirements needed for the voice changer to work.
-## 1.1. Open up cmd in a folder where you unpacked the voice changer.
-### for nvidia gpu users:
-> pip install -r requirements-win-for-realtime_vc_gui-cuda.txt
-### for users without nvidia gpu:
-> pip install -r requirements-win-for-realtime_vc_gui-dml.txt
+## 1.1. Go to the 'requirements' folder and run ( double click ) an appropriate '.bat' file for your case:
+### for nvidia gpu users ( all nvidia except for RTX30XX series ):
+> 'install requirements for realtime voice-changer ( NVIDIA-STANDARD ).bat'
+### for nvidia gpu users ( for RTX30XX series ):
+> 'install requirements for realtime voice-changer ( NVIDIA-RTX30XX ).bat'
+### or if the above causes your gpu to be undetected:
+> 'install requirements for realtime voice-changer ( NVIDIA-RTX30XX ) - CUDA_118'  
+### for AMD / CPU / DirectML users:
+> 'install requirements for realtime voice-changer ( DML ).bat'
 
-( I personally tested it for dml mode (( python 3.10.6 asdasdad )) )
+( I personally tested it in dml mode (( python 3.10.6 / Radeon RX 570 4GB )) )
 
 ## 1.2. Download the required assets:
 > Simply double click the 'download-required-assets.bat'
@@ -16,7 +20,7 @@
 # 2. Open up the voice changer using the .bat files:
 
 ### for nvidia gpu users:
-> 'go-realtime-gui-cuda'
+> 'go-realtime-gui-nvidia'
 
 ### for users without nvidia gpu:
 > 'go-realtime-gui-dml'
