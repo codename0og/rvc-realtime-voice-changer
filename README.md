@@ -1,6 +1,6 @@
 ### Standalone, lightweight and simplified in setup RVC's own real-time voice changer~
 > separated from rvc by codename;0
-
+### IMPORTANT NOTE; Trying to run the voice changer with python 3.12.X will cause issues. Instead, you should use python 3.10.6 for highest compatibility. ( 3.11.x wasn't tested so can't promise anything. )
 # 1. Get the requirements needed for the voice changer to work.
 ## 1.1. Go to the 'requirements' folder then 'realtime-voice-changer' and run ( double click ) an appropriate '.bat' file for your case:
 ### for nvidia gpu users ( all nvidia except for RTX30XX series ):
