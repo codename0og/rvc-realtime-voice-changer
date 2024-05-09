@@ -11,7 +11,7 @@
 ⠀<br />
 # Step 1. Get the requirements needed for the voice changer to work.
 
-## ① - Go to the 'requirements' folder and then run ( double click ) an appropriate '.bat' file for your case:
+## 1.1 Go to the 'requirements' folder and then run ( double click ) an appropriate '.bat' file for your case:
 
 ⠀<br />
 ### For Nvidia gpu users ( all nvidia except for RTX30XX series ):
@@ -35,7 +35,7 @@
 #### ( I personally use that one for dml mode (( python 3.10.6 / Radeon RX 570 4GB )) )
 
 ⠀<br />
-## ② - Download the required assets:
+## 1.2 Download the required assets:
 > Simply double click the 'download-required-assets.bat'
 
 # Step 2. Open up the voice changer using the .bat files:
