@@ -25,3 +25,4 @@ onnxruntime-directml
 torchfcpe
 faiss-cpu
 torchcrepe==0.0.20
+python-dotenv==1.0.0
