@@ -5,6 +5,8 @@
 ### ⚠️ IMPORTANT NOTE ⚠️
 > To avoid any errors or compatibility issues **YOU HAVE TO HAVE python 3.10.6.** Using: 3.12.X will cause issues. ( 3.11.x wasn't tested so can't promise anything. )
 
+> ***Only download the "v1.1.0" release / zip package*** as The repo ISN'T UPDATED YET ( Still based on rvcboss's rvc - v1.0.0 ).
+
 ⠀<br />
 ## How to get it up and running:
 
