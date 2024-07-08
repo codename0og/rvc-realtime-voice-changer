@@ -1,5 +1,5 @@
 ### Standalone, lightweight and simplified in setup RVC's own real-time voice changer~
-> ✨ separated from rvc by codename;0 ✨
+> ✨ separated from rvc ( Fumiama version ) by codename;0 ✨
 
 ⠀<br />
 ### ⚠️ IMPORTANT NOTE ⚠️
