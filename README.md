@@ -1,6 +1,15 @@
 ### Standalone, lightweight and simplified in setup RVC's own real-time voice changer~
 > ✨ separated from rvc ( Fumiama version ) by codename;0 ✨
 
+
+<p align="center"> ㅤㅤ👇 You can join my discord server below ( RVC / AI Audio friendly ) 👇ㅤㅤ </p>
+
+</p>
+<p align="center">
+  <a href="https://discord.gg/SkwcMjxwMq" target="_blank"> Codename's Sanctuary</a>
+</p>
+
+
 ⠀<br />
 ### ⚠️ IMPORTANT NOTE ⚠️
 > To avoid any errors or compatibility issues **YOU HAVE TO HAVE python 3.10.6.** Using: 3.12.X will cause issues. ( 3.11.x wasn't tested so can't promise anything. )
